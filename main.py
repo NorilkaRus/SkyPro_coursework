@@ -1,4 +1,4 @@
-from utils import *
+from src.utils import *
 
 #Сначала определяем последние 5 дат
 operations = "operations.json"
